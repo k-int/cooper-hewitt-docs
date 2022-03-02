@@ -4,7 +4,7 @@
 These are all the fields you can query on the Package entity. 
 ```
 {
-  department {
+  package {
     collectionsOnlineId
     id
     name
