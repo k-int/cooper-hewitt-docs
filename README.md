@@ -13,10 +13,10 @@
 - [Term](/entities/term.md)
 
 ### Extras:
-- [Aggregations](/extras/aggregations)
-- [Pagination](/extras/pagination)
-- [Fragments](/extras/fragments)
-- [Error Handling](/extras/error_handling)
+- [Aggregations](/extras/aggregations.md)
+- [Pagination](/extras/pagination.md)
+- [Fragments](/extras/fragments.md)
+- [Error Handling](/extras/error_handling.md)
 
 
 ### Examples:
