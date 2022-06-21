@@ -19,6 +19,7 @@ These are the fields you can query on the object entity:
     inscription 
     geography
     legal
+    loaned
     location
     material 
     medium 
@@ -87,6 +88,7 @@ geography: string
 hasImages: boolean
 identifier: string
 id: string
+loaned: boolean
 maker: string
 makerId: string
 material: string
