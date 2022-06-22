@@ -8,6 +8,7 @@
 - [Exhibition](/entities/exhibition.md)
 - [Location](/entities/location.md)
 - [Object](/entities/object.md)
+  - [Media](/entities/media.md)
 - [Package](/entities/package.md)
 - [Tag](/entities/tag.md)
 - [Term](/entities/term.md)
