@@ -56,7 +56,7 @@ These are the fields you can query on the object entity:
     tag {
         id
         summary
-    }
+    }   
   }
 }
 

@@ -22,6 +22,8 @@ The current artifacts are:
 
 The generated artifacts are stored in Amazon S3, and can be found at the `url` for the respective artifact block. For example: `multimedia.preview.url`
 
+If an object record falls under CC0, its media link will contain `cc0: true`, else there will not be a `cc0` field on the link. For example, see [this record](https://ch-api.ch-dev-use.link/?query=%7B%0A%20%20object(identifier%3A%229346%22)%7B%0A%09%09id%0A%20%20%20%20multimedia%20%20%20%20%0A%20%20%7D%0A%7D).
+
 
 
 
